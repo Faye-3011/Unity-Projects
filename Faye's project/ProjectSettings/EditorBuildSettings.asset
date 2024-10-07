@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Faye's Game Scene 2.unity
     guid: 84118eb331d20a541a1fc64965891392
+  - enabled: 1
+    path: Assets/Scenes/Faye's Game Scene 3.unity
+    guid: 8a98e4c3b3fe9764a8fc3e682b6d34eb
   m_configObjects: {}
